@@ -56,7 +56,7 @@ export default function PrivacyPolicy() {
           </ul>
         </p>
   
-        <h2>Children's Privacy</h2>
+        <h2>Children&apos;s Privacy</h2>
         <p>
           Our app is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us.
         </p>
